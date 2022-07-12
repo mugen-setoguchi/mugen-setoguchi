@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mugen-setoguchi
+- 🌱 I’m currently learning python.
